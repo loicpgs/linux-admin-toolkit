@@ -22,9 +22,9 @@ The goal is to provide simple and reusable scripts to manage and monitor a Linux
 ## Project Structure
 
 linux-admin-toolkit/
-├── scripts/     # Bash scripts
-├── docs/        # Documentation
-├── logs/        # Log files
+├── scripts/      Bash scripts
+├── docs/         Documentation
+├── logs/         Log files
 ├── README.md
 └── .gitignore
 
